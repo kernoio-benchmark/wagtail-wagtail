@@ -38,3 +38,11 @@
 2026-03-24 12:36:58.336 [CHECKMARK] - index - wagtail-project-template-py - Imports analyzed
 2026-03-24 12:36:58.353 [CHECKMARK] - index - wagtail-project-template-py - Build configuration analyzed
 2026-03-24 12:36:58.363 [CHECKMARK] - composeAgent - wagtail-project-template-py - Dockerfile generated
+2026-03-24 12:36:58.373 [CHECKMARK] - index - wagtail-project-template-py - Project indexed
+2026-03-24 12:36:58.383 [CHECKMARK] - index - wagtail-project-template-py - Imports analyzed
+2026-03-24 12:36:58.411 [CHECKMARK] - index - wagtail-project-template-py - External services analyzed
+2026-03-24 12:36:58.411 [CHECKMARK] - index - wagtail-project-template-py - Security analyzed
+2026-03-24 12:36:58.413 [CHECKMARK] - index - wagtail-project-template-py - Build configuration analyzed
+2026-03-24 12:36:58.421 [CHECKMARK] - composeAgent - wagtail-project-template-py - Dockerfile generated
+2026-03-24 12:36:58.428 [CHECKMARK] - composeAgent - wagtail-project-template-py - Context gathered
+2026-03-24 12:36:58.435 [CHECKMARK] - composeAgent - wagtail-project-template-py - docker-compose.yaml generated
