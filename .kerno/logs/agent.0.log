@@ -1,0 +1,40 @@
+2026-03-24 12:25:22.314 [INFO] - index - wagtail-wagtail-0575eb - Scanning files
+2026-03-24 12:25:22.316 [DEBUG] - index - wagtail-wagtail-0575eb - Cache miss for scanning files
+2026-03-24 12:25:25.701 [CHECKMARK] - index - wagtail-wagtail-0575eb - Files scanned
+2026-03-24 12:25:25.701 [INFO] - index - Expected exactly 1 module, found 4 — skipping analysis
+2026-03-24 12:25:25.702 [INFO] - index - wagtail-wagtail-0575eb - Found 4 module(s)
+2026-03-24 12:25:25.702 [INFO] - index - wagtail-wagtail-0575eb - Detected applications: project-template
+2026-03-24 12:25:27.502 [CHECKMARK] - index - wagtail-wagtail-0575eb - Files scanned
+2026-03-24 12:25:27.502 [INFO] - index - wagtail-wagtail-0575eb - Found 4 module(s)
+2026-03-24 12:25:27.502 [INFO] - index - wagtail-wagtail-0575eb - Detected applications: project-template
+2026-03-24 12:25:27.522 [CHECKMARK] - index - wagtail-wagtail-0575eb - Files scanned
+2026-03-24 12:25:27.522 [INFO] - index - wagtail-wagtail-0575eb - Found 4 module(s)
+2026-03-24 12:25:27.522 [INFO] - index - wagtail-wagtail-0575eb - Detected applications: project-template
+2026-03-24 12:25:27.544 [INFO] - index - wagtail-project-template-py - Indexing your project
+2026-03-24 12:25:27.544 [DEBUG] - index - wagtail-project-template-py - Cache miss for indexing your project
+2026-03-24 12:25:28.170 [CHECKMARK] - index - wagtail-project-template-py - Project indexed
+2026-03-24 12:25:28.172 [INFO] - index - wagtail-project-template-py - Analyzing imports
+2026-03-24 12:25:28.173 [DEBUG] - index - wagtail-project-template-py - Cache miss for analyzing imports
+2026-03-24 12:25:33.599 [CHECKMARK] - index - wagtail-project-template-py - Imports analyzed
+2026-03-24 12:25:33.618 [INFO] - index - wagtail-project-template-py - Analyzing external services
+2026-03-24 12:25:33.618 [INFO] - index - wagtail-project-template-py - Analyzing security
+2026-03-24 12:25:33.618 [DEBUG] - index - wagtail-project-template-py - Cache miss for analyzing security
+2026-03-24 12:25:33.619 [DEBUG] - index - wagtail-project-template-py - Cache miss for analyzing external services
+2026-03-24 12:25:33.629 [CHECKMARK] - index - wagtail-project-template-py - External services analyzed
+2026-03-24 12:25:33.653 [INFO] - index - wagtail-project-template-py - Analyzing build configuration
+2026-03-24 12:25:33.653 [DEBUG] - index - wagtail-project-template-py - Cache miss for analyzing build configuration
+2026-03-24 12:25:42.221 [CHECKMARK] - index - wagtail-project-template-py - Security analyzed
+2026-03-24 12:25:49.351 [CHECKMARK] - index - wagtail-project-template-py - Build configuration analyzed
+2026-03-24 12:25:49.353 [INFO] - composeAgent - wagtail-project-template-py - Generating Dockerfile
+2026-03-24 12:25:49.353 [DEBUG] - composeAgent - wagtail-project-template-py - Cache miss for generating dockerfile
+2026-03-24 12:30:00.888 [CHECKMARK] - composeAgent - wagtail-project-template-py - Dockerfile generated
+2026-03-24 12:30:00.890 [INFO] - composeAgent - wagtail-project-template-py - Gathering context
+2026-03-24 12:30:00.890 [DEBUG] - composeAgent - wagtail-project-template-py - Cache miss for gathering context
+2026-03-24 12:30:19.364 [CHECKMARK] - composeAgent - wagtail-project-template-py - Context gathered
+2026-03-24 12:30:19.366 [INFO] - composeAgent - wagtail-project-template-py - Generating docker-compose.yaml
+2026-03-24 12:30:19.367 [DEBUG] - composeAgent - wagtail-project-template-py - Cache miss for generating docker-compose.yaml
+2026-03-24 12:36:58.318 [CHECKMARK] - composeAgent - wagtail-project-template-py - docker-compose.yaml generated
+2026-03-24 12:36:58.328 [CHECKMARK] - index - wagtail-project-template-py - Project indexed
+2026-03-24 12:36:58.336 [CHECKMARK] - index - wagtail-project-template-py - Imports analyzed
+2026-03-24 12:36:58.353 [CHECKMARK] - index - wagtail-project-template-py - Build configuration analyzed
+2026-03-24 12:36:58.363 [CHECKMARK] - composeAgent - wagtail-project-template-py - Dockerfile generated
